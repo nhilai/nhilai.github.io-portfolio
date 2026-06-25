@@ -5,11 +5,11 @@ window.Portfolio.data = {
     brand: 'NHI LAI · SYDNEY, AU',
     tagline: 'data & analytics — built end to end',
     eyebrow: '/* SELECT lineage FROM career */',
-    headline: 'I build data pipelines that end in decisions.',
+    headline: 'I build data solutions that end in decisions.',
     lede: `Data & Analytics professional with +3 years delivering end-to-end on Azure —
       from metadata-driven ingestion through dimensional warehouses to semantic layers,
       Power BI and GenAI automation, for insurance and financial clients.`,
-    signOff: '-- end of pipeline. open to Data Engineer & Data Analyst roles.',
+    signOff: '-- end of pipeline. open to Data Engineer, Analytics Engineer & Data Analyst roles.',
     links: {
       linkedin: 'https://www.linkedin.com/in/nhi-lai',
       email: 'mailto:nhilai1105@gmail.com',
@@ -117,7 +117,7 @@ window.Portfolio.data = {
         pills: ['Cursor', 'Copilot Studio', 'Power Automate', 'Logic Apps', 'Azure Automation'],
       },
     ],
-    learning: 'Currently building: Microsoft Fabric (DP-700) · introductory Snowflake, dbt exposure',
+    learning: 'Currently building: Microsoft Fabric (DP-700) · introductory Databricks,Snowflake, dbt exposure',
   },
   certifications: [
     { name: 'Azure Data Scientist Associate', org: 'MICROSOFT' },
