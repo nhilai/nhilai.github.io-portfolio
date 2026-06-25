@@ -8,7 +8,7 @@ window.Portfolio.data = {
     headline: 'I build data solutions that end in decisions.',
     lede: `Data & Analytics professional with +3 years delivering end-to-end on Azure —
       from metadata-driven ingestion through dimensional warehouses to semantic layers,
-      Power BI and GenAI automation, for insurance and financial clients.`,
+      Power BI and GenAI automation, for insurance and finance clients.`,
     signOff: '-- end of pipeline. open to Data Engineer, Analytics Engineer & Data Analyst roles.',
     links: {
       linkedin: 'https://www.linkedin.com/in/nhi-lai',
@@ -117,7 +117,7 @@ window.Portfolio.data = {
         pills: ['Cursor', 'Copilot Studio', 'Power Automate', 'Logic Apps', 'Azure Automation'],
       },
     ],
-    learning: 'Currently building: Microsoft Fabric (DP-700) · introductory Databricks,Snowflake, dbt exposure',
+    learning: 'Currently building: Microsoft Fabric (DP-700) · introductory Databricks, Snowflake, dbt exposure',
   },
   certifications: [
     { name: 'Azure Data Scientist Associate', org: 'MICROSOFT' },
